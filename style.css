@@ -1,0 +1,14 @@
+body{
+    /* margin: 0;
+    padding: 0; */
+    background : linear-gradient(to right, rgb(252, 166, 7) , rgb(191, 243, 108))
+  }
+
+body > div {
+    margin: 50px;
+    padding: 50px;
+    font-size: 2.5rem;
+    text-align: center;
+    border-radius: 22px;
+    background-color : rgba(69, 141, 250, .50);
+}
